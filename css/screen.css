@@ -202,15 +202,16 @@ html {
 
 label {
   display: inline;
+  font-family: 'Lato', 'Arial', sans-serif;
 }
 
 h1{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', 'Arial', sans-serif;
   font-size: 3em;
   margin: 1rem auto;
 }
  p{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', 'Arial', sans-serif;
  }
 
 /* ===== LAYOUT STYLES ====== */
